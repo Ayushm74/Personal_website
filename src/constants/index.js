@@ -204,7 +204,7 @@ export const skills = [
 export const experiences = [
   {
     organisation: "Nile Wellness",
-    logo: placeholder,
+    logo: "https://i.postimg.cc/Rhz5gp1t/Screenshot-2026-05-22-002002.png",
     link: "https://drive.google.com/drive/folders/1r1A7Q8Wqz-yxLlxfVLltvnGHFSrDicwU?usp=sharing&utm_source=chatgpt.com",
     positions: [
       {
