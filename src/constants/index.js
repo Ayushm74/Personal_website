@@ -79,10 +79,10 @@ export const educationList = [
     duration: "2023 - 2027",
     content1: "CGPA: 8.94/10",
     content2:
-      "Coursework: DSA, DBMS, Machine Learning, AI, NLP, OS, CN, OOP, Probability & Statistics, AWS, Azure, GCP.",
+      " Database Management Systems, Data Structures and Algorithms, Machine Learning, Natural Language Processing, Object-Oriented Programming, Probability and Statistics, Artificial Intelligence, Operating Systems, Computer Networks, Azure, GCP, AWS ",
     content3: "Qualified JEE Mains with 94.6 percentile.",
   },
-];
+];  
 
 export const achievements = [
   {
