@@ -87,7 +87,7 @@ export const educationList = [
 export const achievements = [
   {
     id: "a-1",
-    icon: placeholder,
+    icon: "https://i.postimg.cc/8CVRPhHQ/lc-logo.png",
     event: "LeetCode Competitive Programming",
     position: "1790 rating | Top 8.28% globally",
     content1: "Solved 823+ DSA problems using C++.",
@@ -97,7 +97,7 @@ export const achievements = [
   },
   {
     id: "a-2",
-    icon: placeholder,
+    icon: "https://i.postimg.cc/2SnWJ1ft/axis-logo.webp",
     event: "Axis 2025 Web Reshape Hackathon - NIT Nagpur",
     position: "2nd Place",
     content1: "Built a polished web experience under hackathon constraints.",
@@ -105,7 +105,7 @@ export const achievements = [
   },
   {
     id: "a-3",
-    icon: placeholder,
+    icon: "https://i.postimg.cc/c1VMbynC/sih-image-Ct-Cyz0b.jpg",
     event: "Smart India Hackathon 2025",
     position: "Institute Level Qualifier",
     content1: "Qualified through institute-level evaluation.",
@@ -113,23 +113,14 @@ export const achievements = [
   },
   {
     id: "a-4",
-    icon: placeholder,
+    icon: "https://i.postimg.cc/525HgDwq/codeclash-logo.jpg",
     event: "Codechash - IIT Jodhpur",
     position: "National Rank 164",
     content1: "Secured rank 164 nationally in a competitive programming contest.",
   },
   {
-    id: "a-5",
-    icon: placeholder,
-    event: "Online Learning Platform Hackathon",
-    position: "1st Place",
-    content1: "Built the project within 3 hours.",
-    content2: "Won first place with innovative UI and 3D integrations.",
-    project: "https://ayush-bjhc.vercel.app/?utm_source=chatgpt.com",
-  },
-  {
     id: "a-6",
-    icon: placeholder,
+    icon: "https://i.postimg.cc/gjwXKJDc/ravant-media-logo.jpg",
     event: "FindScan Technical Assessment",
     position: "Selected from 1000+ applicants",
     content1: "Built a TradingView-style Bollinger Bands indicator.",
