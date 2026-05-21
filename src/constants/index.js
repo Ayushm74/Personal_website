@@ -73,7 +73,7 @@ export const navLinks = [
 export const educationList = [
   {
     id: "education-1",
-    icon: placeholder,
+    icon: "https://i.postimg.cc/Y2xscSM5/Screenshot-2026-05-22-002345.png",
     title: "Shri Ramdeobaba College of Engineering and Management",
     degree: "B.Tech in Computer Science with Data Science",
     duration: "2023 - 2027",
