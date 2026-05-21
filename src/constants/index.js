@@ -87,6 +87,14 @@ export const educationList = [
 export const achievements = [
   {
     id: "a-1",
+     icon: "https://i.postimg.cc/2SnWJ1ft/axis-logo.webp",
+    event: "Axis 2025 Web Reshape Hackathon - NIT Nagpur",
+    position: "2nd Place",
+    content1: "Built a polished web experience under hackathon constraints.",
+    content2: "Recognized for execution quality, UI, and product thinking.",
+  },
+  {
+    id: "a-2",
     icon: "https://i.postimg.cc/8CVRPhHQ/lc-logo.png",
     event: "LeetCode Competitive Programming",
     position: "1790 rating | Top 8.28% globally",
@@ -94,14 +102,7 @@ export const achievements = [
     content2: "Participated in 39+ contests with global rank 70,636 / 874,349.",
     content3: "Earned 25 badges, 366+ active days, and the 500 Days Badge.",
     project: "https://leetcode.com/u/Ayushmishra74992/?utm_source=chatgpt.com",
-  },
-  {
-    id: "a-2",
-    icon: "https://i.postimg.cc/2SnWJ1ft/axis-logo.webp",
-    event: "Axis 2025 Web Reshape Hackathon - NIT Nagpur",
-    position: "2nd Place",
-    content1: "Built a polished web experience under hackathon constraints.",
-    content2: "Recognized for execution quality, UI, and product thinking.",
+   
   },
   {
     id: "a-3",
